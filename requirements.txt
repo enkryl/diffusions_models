@@ -1,0 +1,16 @@
+accelerate
+diffusers
+transformers
+tensorboard
+peft
+pandas
+scikit-image
+scikit-learn
+opencv-python
+matplotlib
+seaborn
+ipykernel
+safetensors
+torchvision
+Pillow
+PyYAML
